@@ -2,10 +2,10 @@
 ## I'm a programming enthusiast👨‍💻<br>
 
 🔭 I’m currently working as an AWS Data Engineer. <br>
-🎓 I did B.Tech in 2021. <br>
-⏳ I am constantly learning and keep myself updated with the latest technologies.<br>
-🤔 My interests are in Data Engineering, Data science, Data Analytics, Big Data Processing.<br>
-👯 I’m looking to collaborate on Data Engineering. <br>
+🎓 I graduated with a B.Tech in 2021. <br>
+⏳ I am constantly learning and keeping myself updated with the latest technologies.<br>
+🤔 My interests include Data Engineering, Data Science, Data Analytics, and Big Data Processing.<br>
+👯 I’m looking to collaborate on Data Engineering projects. <br>
 💬 Ask me about anything, I am happy to help.<br>
 📫 Please email via prasanthmukkamala@gmail.com to reach me.<br>
 
