@@ -26,20 +26,26 @@ Connect with me on LinkedIn [![LinkedIn](https://img.shields.io/badge/LinkedIn-ð
 - matplotlib 
 - seaborn
 
-**Big Data Frameworks:**
+**Big Data Tools:**
 - Hadoop
 - Spark
 - Pyspark
+- DataBricks
+- Kafka
 
 **Clouds:** <br>
-- AWS (S3, Glue, Lamda, Redshift, Athena, CloudWatch)
+- AWS (S3, Glue, Lamda, Redshift, Athena, CloudWatch, OpenSearch)
+- GCP (BQ, Cloud Functions, Elastic Search, Composer)
 
 **DataWarehouses:** <br>
+- BigQuery
 - Snowflake
 - Hive
+- Redshift
 
 **Orchestration:** <br>
 - Apache Airflow
 
 **Visualisation Tools:** <br>
 - Power BI
+- Looker
